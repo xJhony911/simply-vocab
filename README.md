@@ -31,12 +31,16 @@ Si deseas clonar este proyecto y ejecutarlo en tu máquina local:
    ```bash
    git clone https://github.com/xJhony911/simply-vocab
 2. Navega al directorio del proyecto:
+   ```bash
    cd simply-vocab
-3. Instala las dependencias necesarias:
+4. Instala las dependencias necesarias:
+   ```bash
    npm install
-4. npm run dev
+   npm run dev
+   
 📂 Estructura de Datos (Formato JSON)
 La aplicación acepta listas personalizadas de vocabulario con la siguiente estructura de objetos:
+```bash
 [
   {
     "id": "1",
